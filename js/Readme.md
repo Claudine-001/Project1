@@ -1,0 +1,2 @@
+THis is a restaurant menu-order function. It is supposed to delete, update menus at a button-click. Placing an order is also quite easy. 
+It also allows the customers to also be able to leave their reviews on their experiences with the services.

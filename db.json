@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "email": "njumikimani@gmail.com",
+      "phone": "98753",
+      "comment": "LOooove",
+      "id": 1
+    },
+    {
+      "email": "njumikimani@gmail.com",
+      "phone": "765423",
+      "comment": "I love it",
+      "id": 2
+    },
+    {
+      "email": "claudine.kimani@student.moringaschool.com",
+      "phone": "8764",
+      "comment": "nice",
+      "id": 3
+    },
+    {
+      "email": "titus@gmail.com",
+      "phone": "8948792749",
+      "comment": "Good ",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
